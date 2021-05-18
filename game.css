@@ -1,0 +1,49 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+  color: darkgray;
+}
+
+.OuterRealms {
+  font-family: cursive;
+  color: darkgray;
+  font-size: 25px;
+  text-align: center;
+  float: left;
+  width: 100%;
+  color: gray;
+  background: cyan;
+  border: 4px solid;
+  
+}
+
+.OuterDesc {
+  font-family: cursive;
+  color: darkgray;
+  font-size: 16px;
+  float: left;
+  width: 35%
+}
+
+.TipoDesc {
+  font-family: cursive;
+  color: darkgray;
+  font-size: 16px;
+  float: right;
+  width: 42%
+}
+
+.TutorDesc {
+  font-family: cursive;
+  color: darkgray;
+  font-size: 16px;
+}
+
